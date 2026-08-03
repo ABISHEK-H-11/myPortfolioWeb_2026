@@ -1,0 +1,8 @@
+{
+  "name": "ABISHEK Portfolio",
+  "description": "A futuristic developer portfolio for ABISHEK, showcasing expertise in Spring Boot, React, MySQL, Java, Python, and GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
